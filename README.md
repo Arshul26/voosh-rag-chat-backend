@@ -43,4 +43,9 @@ EMBEDDING_ADAPTER_URL=http://localhost:5001/embed
 LLM_ADAPTER_URL=http://localhost:5002/llm
 SESSION_TTL_SECONDS=86400
 GEMINI_API_KEY=<your-gemini-api-key>
+```
+
+## Project Workflow 📜
+![Project Workflow Pipeline](./assets/Pipeline.png)
+
 
